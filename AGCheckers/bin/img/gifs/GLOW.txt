@@ -1,0 +1,2 @@
+SCREEN - 100% - 0% - PRECISE - 0% - 18PX - GAUSIAN - 64%, 53%
+SCREEN - 100% - 0% - SOFTER - 19%/5 - 21PX/32 - CONE - 50%, 0%

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Libs/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="Libs/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="Libs/cglib.jar"/>
+	<classpathentry kind="lib" path="Libs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="Libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Libs/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="Libs/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="Libs/hibernate3.jar"/>
+	<classpathentry kind="lib" path="Libs/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="Libs/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="Libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="Libs/log4j-over-slf4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="Libs/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="Libs/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Libs/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
